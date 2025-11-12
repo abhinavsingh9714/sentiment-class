@@ -2,6 +2,6 @@
 .env
 .venv
 .gitignore
-.report.md
+report.md
 ~*
 **/__pycache__/**
